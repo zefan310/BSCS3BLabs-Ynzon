@@ -1,0 +1,33 @@
+body {
+    display: grid;
+    place-items: center;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.titleColoring {
+    background-color: #808080;
+    color: white;
+    padding: 5px 15px;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.name1 {
+    font-size: 25px;
+    padding: 5px 15px;
+    margin: 0px;
+}
+
+.courseSubjTitle{
+    font-size: 25px;
+}
+
+.favFoodTitle{
+    font-size: 25px;
+}
+
+.socialTitle{
+    font-size: 25px;
+}
